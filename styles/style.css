@@ -777,7 +777,7 @@ background-color: rgba(0, 0, 0, 0.5);
         position: fixed;
         top: 0;
         right: 0;
-        width: 10px;
+        width: 0px;
         height: 100%;
         background: rgba(255, 255, 255, 0.3);
     }
@@ -786,7 +786,7 @@ background-color: rgba(0, 0, 0, 0.5);
         position: fixed;
         top: 0;
         right: 0;
-        width: 10px;
+        width: 0px;
         height: 100%;
         background: linear-gradient(to top, #008aff, #00ffe7);
         animation: animate 5s linear infinite;
@@ -828,6 +828,7 @@ background-color: rgba(0, 0, 0, 0.5);
         width: 200px;
         height: 200px;
         margin-bottom: 100px;
+       
     }
 
     #h1stem {
@@ -893,9 +894,8 @@ background-color: rgba(0, 0, 0, 0.5);
     }
 
     p {
-        font-family: 'Nova Flat';
-        font-size: 22px;
-        color: #ffffff;
+        color: aquamarine; 
+        font-family: 'Times New Roman', Times, serif;
     }
 
     #Stem {
